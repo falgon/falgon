@@ -1,4 +1,4 @@
-<div align="center" style="display: block; margin-bottom: 10px;">
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=falgon&theme=tokyonight&show_icons=true&count_private=true&hide=contribs" />
 </div>
 <div align="center">
