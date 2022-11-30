@@ -1,10 +1,12 @@
 # Resume & Portfolio
 
-<img src="https://avatars.githubusercontent.com/u/1241783?s=400&u=dee28487989ded5b417672468b4b942d00abde1b" width="200" alt="profile image" aligh="left"/>
-<ul>
-    <li>ハンドルネーム: Roki</li>
+<img src="https://avatars.githubusercontent.com/u/1241783?s=400&u=dee28487989ded5b417672468b4b942d00abde1b" width="200" alt="profile image" align="left" />
+<ul style="list-style:none;">
+    <li >ハンドルネーム: Roki</li>
     <li>ウェブサイト: <a href="https://roki.dev">roki.dev</a></li>
 </ul>
+
+<br clear="left">
 
 ## 略歴
 
