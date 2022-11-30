@@ -1,8 +1,6 @@
 # Resume & Portfolio
 
-<p>
-<img src="https://avatars.githubusercontent.com/u/1241783?s=400&u=dee28487989ded5b417672468b4b942d00abde1b" width="200px" align="top" alt="profile image" />
-</p>
+<img src="https://avatars.githubusercontent.com/u/1241783?s=400&u=dee28487989ded5b417672468b4b942d00abde1b" width="200" alt="profile image" aligh="left"/>
 <ul>
     <li>ハンドルネーム: Roki</li>
     <li>ウェブサイト: <a href="https://roki.dev">roki.dev</a></li>
@@ -12,7 +10,7 @@
 
 | 年 | 内容 |
 | :--: | :--: |
-| 2020 | [デジタルハリウッド大学](https://www.dhw.ac.jp/)デジタルコミュニケーション学部デジタルコンテンツ学科卒 |
+| 2020 | [デジタルハリウッド大学](https://www.dhw.ac.jp/)デジタルコミュニケーション学部デジタルコンテンツ学科卒業 |
 | 2020〜 | [KLab株式会社](https://www.klab.com/jp/)入社・KLabGames事業本部サーバ運用エンジニアとして従属 |
 
 ## お仕事内容
