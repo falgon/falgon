@@ -12,7 +12,7 @@
     - **[:coffee: コーヒー1杯分から応援](https://www.buymeacoffee.com/roki)**
     - **[:sparkles: Wishlist](https://www.amazon.co.jp/hz/wishlist/ls/1NF4D88PJD2HM?ref_=wl_share)**
 - 趣味: 車輪の再発明 (自作 [C コンパイラ](https://github.com/falgon/htcc), [Git](https://github.com/falgon/hmgit), [JPEG encoder/decoder](https://github.com/falgon/jpezy), ...)
-- お仕事の非開示なもの以外の最近やったこととかは[ここ](./portfolio.md)に
+- お仕事の非開示なもの以外の最近やったこととかは[ここ](./resume_jp.md)に
 
 <div align="center">
 <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=falgon&theme=onedark&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
