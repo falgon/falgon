@@ -1,4 +1,4 @@
-# Resume
+# Resume ![badge](https://img.shields.io/badge/Last%20updated-2022%2F12%2F23-brightgreen.svg)
 
 <img src="https://avatars.githubusercontent.com/u/1241783?s=400&u=dee28487989ded5b417672468b4b942d00abde1b" width="200" alt="profile image" align="left" />
 <ul style="display: list-item; list-style: none;">
@@ -24,8 +24,8 @@
 
 ## 好きな技術
 
-_車輪の再発明_ がすき。
-これまでの _車輪の再発明_ リスト：
+<i>車輪の再発明</i>がすき。
+これまでの主な<i>車輪の再発明</i>リスト：
 - [Cコンパイラ - htcc](https://github.com/falgon/htcc)
 - [Git - hmgit](https://github.com/falgon/hmgit)
 - [JPEGエンコーダ/デコーダ - jpezy](https://github.com/falgon/jpezy)
