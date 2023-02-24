@@ -3,9 +3,7 @@
 </div>
 <div align="center">
 <a href="https://roki.dev"><img alt="Website Badge" src="https://img.shields.io/badge/Website-roki.dev-blueviolet" /></a>
-<a href="http://twitter.com/530506"><img alt="Twitter Badge" src="https://img.shields.io/twitter/follow/530506?label=Twitter&logo=twitter&style=flat" /></a>
 <a href="https://www.reddit.com/user/r0k1"><img alt="Reddit Badge" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" /></a>
-<a href="https://www.youtube.com/channel/UCyo5Uy1RIOYplAB4GXTA_4A"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCyo5Uy1RIOYplAB4GXTA_4A" /></a>
 </div>
 
 - KLab Inc.でサーバーサイドソフトウェアエンジニアをしつつ, その傍らでソフトウェアの開発/公開, 技術情報や入門記事の執筆, 勉強会での発表等しています
