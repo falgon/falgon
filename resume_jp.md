@@ -1,12 +1,17 @@
 # Resume ![badge](https://img.shields.io/badge/Last%20updated-2023%2F06%2F08-brightgreen.svg)
 
 <img src="https://avatars.githubusercontent.com/u/1241783?s=400&u=dee28487989ded5b417672468b4b942d00abde1b" width="200" alt="profile image" align="left" />
-<ul style="display: list-item; list-style: none;">
+<ul style="display: list-item; list-style: none;" >
     <li>ハンドルネーム: Roki</li>
     <li>ウェブサイト: <a href="https://roki.dev">roki.dev</a></li>
-    <li>ブログ: <a href="https://roki.dev/roki.log">roki.dev/roki.log</a>, 旧ブログ: <a href="https://roki.hateblo.jp/">https://roki.hateblo.jp/</a></li>
-    <li>Zenn: <a href="https://zenn.dev/roki">zenn.dev/roki</a></li>
-    <li>Note: <a href="https://note.com/_roki/">note.com/_roki/</a></li>
+    <li>ブログ
+        <ul>
+            <li>メイン: <a href="https://roki.dev/roki.log">roki.dev/roki.log</a></li>
+            <li>旧ブログ: <a href="https://roki.hateblo.jp/">https://roki.hateblo.jp/</a></li>
+            <li>Zenn: <a href="https://zenn.dev/roki">zenn.dev/roki</a></li>
+            <li>Note: <a href="https://note.com/_roki/">note.com/_roki/</a></li>
+        </ul>
+    </li>
 </ul>
 
 <br clear="left">
@@ -91,6 +96,30 @@ C++20まではC++言語仕様書の重箱の隅をつついたり，ドラフト
 - [自作 LINE ボット - line-bot-kiirotori](https://github.com/falgon/line-bot-kiirotori)
     - 私が日常生活を便利にするのにおいて個人的に使っている LINE BOT の Haskell 実装
     - 関連騎士: [簡易認証, 指定時間実行可能な LINE Bot の自作](https://roki.dev/roki.log/2022/04/10/LineBotDevelopment/index.html)
+
+### よく使う言語（順不同）
+
+- Haskell
+    - 上記, 下記の用途で
+    - 最近は専ら Haskell で書くことが多い
+- C++
+    - 上記, 下記の用途で
+    - プログラミングコンテストとか
+    - 速度が必要なとき
+    - 低レイヤ触るとき
+    - テンプレートメタプログラミングがしたいとき
+- Python
+    - 素早くプロトタイプ的なものを作りたいとき
+    - スクレイピング
+    - numpy 使って行列計算とかしたいやプロットを打ちたいとき等
+- Bash 等シェルスクリプト
+    - 普段の操作のほとんどが zsh
+    - 定常的に実行したいタスクとか
+- Go
+    - ネットワーキング + マルチスレッド処理が多いとき
+    - AWS EC2 を操作するとき (下記例)
+        - AWS の VPC-EC2 で VRRP: https://github.com/falgon/VKUVC, 記事: https://roki.dev/roki.log/2018/07/23/ec2failover/index.html
+        - コマンド一発で AWS EC2 上に環境を自動構築, distcc で分散コンパイルを実行: https://github.com/falgon/edcc, 記事: https://roki.dev/roki.log/2018/08/15/aws_ec2_distcc/index.html
 
 ## 業務外での技術的活動
 
