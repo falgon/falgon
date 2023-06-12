@@ -4,7 +4,7 @@
 <ul style="display: list-item; list-style: none;">
     <li>ハンドルネーム: Roki</li>
     <li>ウェブサイト: <a href="https://roki.dev">roki.dev</a></li>
-    <li>ブログ: <a href="https://roki.dev/roki.log">roki.dev/roki.log</a></li>
+    <li>ブログ: <a href="https://roki.dev/roki.log">roki.dev/roki.log</a>, 旧ブログ: <a href="https://roki.hateblo.jp/">https://roki.hateblo.jp/</a></li>
     <li>Zenn: <a href="https://zenn.dev/roki">zenn.dev/roki</a></li>
     <li>Note: <a href="https://note.com/_roki/">note.com/_roki/</a></li>
 </ul>
