@@ -18,10 +18,10 @@
 
 ## 略歴
 
-| 年 | 内容 | コメント |
+| 年 | 内容 | 備考 |
 | :--: | :--: | :--: |
-| 2020 | [デジタルハリウッド大学](https://www.dhw.ac.jp/)デジタルコミュニケーション学部デジタルコンテンツ学科卒業 | 卒論では型理論やコンパイラについて研究，Haskell で自作の C コンパイラを開発し，圏論との関係性から関数プログラミングでコンパイラを開発することの優位性について説きました。https://drive.google.com/file/d/1n_1Ufhujgff71lyc9ViEyI7EsS_vDotn/view?usp=sharing |
-| 2020〜 | [KLab株式会社](https://www.klab.com/jp/)入社・KLabGames事業本部サーバ運用エンジニアとして従属 | - |
+| 2020 | [デジタルハリウッド大学](https://www.dhw.ac.jp/)デジタルコミュニケーション学部デジタルコンテンツ学科卒業 | 卒論では型理論やコンパイラについて研究，Haskell で自作の C コンパイラを開発し，圏論との関係性から関数プログラミングでコンパイラを開発することの優位性について説きました: https://drive.google.com/file/d/1n_1Ufhujgff71lyc9ViEyI7EsS_vDotn/view?usp=sharing |
+| 2020〜 | [KLab株式会社](https://www.klab.com/jp/)入社・KLabGames事業本部サーバ運用エンジニアとして従属 | 詳細下記 |
 
 ## お仕事内容
 
