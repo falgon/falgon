@@ -1,7 +1,7 @@
 <h1 align="center">Roki</h1>
 <div align="center">
 <a href="https://roki.dev"><img alt="Website Badge" src="https://img.shields.io/badge/Website-roki.dev-blueviolet" /></a>
-<a href="https://roki.dev/roki.log"><img alt="Tech Blog Badge" src="https://img.shields.io/badge/TechBlog-roki.log-000" /></a>
+<a href="https://roki.dev/roki.log"><img alt="Tech Blog Badge" src="https://img.shields.io/badge/TechBlog-roki.log-ededed" /></a>
 <a href="https://roki.dev/roki.diary"><img alt="Tech Blog Badge" src="https://img.shields.io/badge/Diary-roki.diary-yellow" /></a>
 <a href="https://github.com/falgon"><img style="display:inline-block;"src="https://komarev.com/ghpvc/?username=falgon&color=blue" /></a>
 </div>
