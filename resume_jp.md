@@ -1,7 +1,11 @@
-# Resume ![badge](https://img.shields.io/badge/Last%20updated-2023%2F06%2F08-brightgreen.svg)
+<h1 align="center">Resume</h1>
+<p align="center"><img src="https://img.shields.io/badge/Last%20updated-2024%2F07%2F11-brightgreen.svg" alt="badge"></p>
 
-<img src="https://avatars.githubusercontent.com/u/1241783?s=400&u=dee28487989ded5b417672468b4b942d00abde1b" width="200" alt="profile image" align="left" />
-<ul style="display: list-item; list-style: none;" >
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/1241783?s=400&u=dee28487989ded5b417672468b4b942d00abde1b" width="200" alt="profile image" />
+</div>
+<div style="text-align:center;">
+<ul style="text-align:left;display: inline-block;">
     <li>ハンドルネーム: Roki</li>
     <li>ウェブサイト: <a href="https://roki.dev">roki.dev</a></li>
     <li>ブログ
@@ -13,26 +17,28 @@
         </ul>
     </li>
 </ul>
-
-<br clear="left">
+</div>
 
 ## 略歴
 
-| 年 | 内容 | 備考 |
+| 年/月 | 内容 | 概要 |
 | :--: | :--: | :--: |
-| 2020 | [デジタルハリウッド大学](https://www.dhw.ac.jp/)デジタルコミュニケーション学部デジタルコンテンツ学科卒業 | [卒論](https://drive.google.com/file/d/1n_1Ufhujgff71lyc9ViEyI7EsS_vDotn/view?usp=sharing)では型理論やコンパイラについて研究，Haskell で自作の C コンパイラを開発し，圏論との関係性から関数プログラミングでコンパイラを開発することの優位性について説く |
-| 2020〜 | [KLab株式会社](https://www.klab.com/jp/)入社 | KLabGames事業本部サーバ運用エンジニアとして従属，詳細下記 |
+| ~2020/03 | [デジタルハリウッド大学](https://www.dhw.ac.jp/)デジタルコミュニケーション学部デジタルコンテンツ学科卒業 | [卒論](https://drive.google.com/file/d/1n_1Ufhujgff71lyc9ViEyI7EsS_vDotn/view?usp=sharing)では型理論やコンパイラについて研究，Haskell で自作の C コンパイラを開発し，圏論との関係性から関数プログラミングでコンパイラを開発することの優位性について説く |
+| 2020/04~2024/07 | [KLab株式会社](https://www.klab.com/jp/)KLabGames事業本部サーバ運用エンジニアとして従事 | [詳細下記参照](#202004-202407-klabgames事業本部サーバ運用エンジニア) |
+| 2024/08~ | [株式会社サイバーエージェント](https://www.cyberagent.co.jp/)入社 | [詳細下記参照](#202408--株式会社サイバーエージェントグループit推進本部全社データ技術局サーバサイドエンジニア) |
 
-## お仕事内容
+## お仕事内容経歴
 
-### 概要
+### 2020/04-2024/07 KLabGames事業本部サーバ運用エンジニア
 
-2020 年より KLab 株式会社 KLabGames 事業本部へ配属。全世界累計 4,500万 DL の大規模スマートフォンゲームサーバサイドエンジニアとして従事，Python3 + Flask での新規開発/改修を経験したのち，サーバ運用，保守，パイプライン/自動化（キーワード: 社内オンプレ，MySQL，Debian，AWS Athena etc）に関するテックメンバーやサブリーダーを務める。特に，サーバ運用やパイプライン/自動化に関しては最終レビュアーを担当。その他，これがあったら便利そうというツールを自作し社内で活用，それらの経験から得た知識を基に社内メールに技術情報を発信，新入社員の指導，チューターや，Git 等の基本的な使い方を教授するバージョン管理研修の講師，基本的な RDB や KVS の概念から使い方を教授するデータベース演習の講師を務める。
+#### 概要
+
+全世界累計 4,500万 DL の大規模スマートフォンゲームサーバサイドエンジニアとして従事，Python3 + Flask での新規開発/改修を経験したのち，サーバ運用，保守，パイプライン/自動化（キーワード: 社内オンプレ，MySQL，Debian，AWS Athena etc）に関するテックメンバーやサブリーダーを務める。特に，サーバ運用やパイプライン/自動化に関しては最終レビュアーを担当。その他，これがあったら便利そうというツールを自作し社内で活用，それらの経験から得た知識を基に社内メールに技術情報を発信，新入社員の指導，チューターや，Git 等の基本的な使い方を教授するバージョン管理研修の講師，基本的な RDB や KVS の概念から使い方を教授するデータベース演習の講師を務める。
 また，案件外の横断的組織である GitHub Enterprise Admin Group にも兼務で所属，GitHub Enterprise の管理，更新，保守，QA 対応などを担う。
 
 業務上で用いている技術のキーワード: Python, MySQL, Jenkins, Nginx, Bash, AWS athena, Debian Linux, ...
 
-### 具体的な業務内容
+#### 具体的な業務内容
 
 1. 施策・機能リリースおよび準備
     - マスタやコード展開，補填付与，不正者 BAN，バッチ実行，不要データ削除，メンテ実行など
@@ -45,11 +51,15 @@
 4. CS 対応
     - カスタマーサービスへ入電される内容の調査，不具合エスカレーション
 
-### 経験インフラ環境
+#### 経験インフラ環境
 
 - 本番ウェブオンプレサーバ台数: 41
 - OS: Debian GNU/Linux 5.0.3
 - OSS ver: Flask 0.12.2, MySQL 5.6.36, Redis 2.8.24, nginx 
+
+### 2024/08- 株式会社サイバーエージェントグループIT推進本部全社データ技術局サーバサイドエンジニア
+
+todo...
 
 ## 好きな技術
 
