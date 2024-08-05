@@ -1,9 +1,9 @@
 <h1 align="center">Roki</h1>
 <div align="center">
-<a href="https://roki.dev"><img alt="Website Badge" src="https://img.shields.io/badge/Website-roki.dev-blueviolet" /></a>
-<a href="https://roki.dev/roki.log"><img alt="Tech Blog Badge" src="https://img.shields.io/badge/TechBlog-roki.log-ededed" /></a>
-<a href="https://roki.dev/roki.diary"><img alt="Tech Blog Badge" src="https://img.shields.io/badge/Diary-roki.diary-yellow" /></a>
-<a href="https://github.com/falgon"><img style="display:inline-block;"src="https://komarev.com/ghpvc/?username=falgon&color=blue" /></a>
+<a href="https://roki.dev" target="_blank"><img alt="Website Badge" src="https://img.shields.io/badge/Website-roki.dev-blueviolet" /></a>
+<a href="https://roki.dev/roki.log" target="_blank"><img alt="Tech Blog Badge" src="https://img.shields.io/badge/TechBlog-roki.log-ededed" /></a>
+<a href="https://roki.dev/roki.diary" target="_blank"><img alt="Tech Blog Badge" src="https://img.shields.io/badge/Diary-roki.diary-yellow" /></a>
+<a href="#"><img style="display:inline-block;"src="https://komarev.com/ghpvc/?username=falgon&color=blue" /></a>
 </div>
 
 -  CyberAgent, Inc. でサーバーサイドエンジニアをしつつ, その傍らソフトウェアの開発/公開, 技術情報や入門記事の執筆, 勉強会での発表等をしています
