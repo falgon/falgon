@@ -6,7 +6,7 @@
 <a href="#"><img style="display:inline-block;"src="https://komarev.com/ghpvc/?username=falgon&color=blue" /></a>
 </div>
 
--  [CyberAgent, Inc.](https://github.com/CyberAgent) でサーバサイドエンジニアをしつつ, その傍らソフトウェアの開発/公開, 技術情報や入門記事の執筆, 勉強会での発表等をしています
+-  [CyberAgent, Inc.](https://github.com/CyberAgent) でデータインテグレーションエンジニアをしつつ, その傍らソフトウェアの開発/公開, 技術情報や入門記事の執筆, 勉強会での発表等をしています
     - **[:coffee: コーヒー1杯分から応援](https://www.buymeacoffee.com/roki)**
     - **[:sparkles: Wishlist](https://www.amazon.jp/hz/wishlist/ls/3UGS8VKEBGECO?ref_=wl_share)**
 - 趣味: 車輪の再発明 (自作 [C コンパイラ](https://github.com/falgon/htcc), [Git](https://github.com/falgon/hmgit), [JPEG Encoder/Decoder](https://github.com/falgon/jpezy), [コンパイル時 Lazy K インタプリタ](https://github.com/falgon/mpl-lazyk), ...)
